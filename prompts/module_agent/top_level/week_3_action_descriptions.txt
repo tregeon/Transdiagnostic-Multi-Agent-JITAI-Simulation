@@ -1,0 +1,14 @@
+#### Action descriptions are defined in the workflow model and are automatically injected into sub-level prompt. This file is therefore provided solely for clarity. 
+
+
+# Mindfulness
+Mindfulness module should be selected when the patient’s main barriers involve rumination, worry, emotional reactivity, difficulty staying present, or feeling caught up in thoughts and feelings.
+
+# Adaptive thoughts
+Adaptive thoughts module should be selected when the patient’s main barriers involve negative thinking patterns, harsh self-judgment, catastrophizing, hopeless interpretations, or difficulty seeing alternative perspectives.
+
+# Problem solving
+Problem solving module should be selected when the patient’s main barriers involve feeling stuck, overwhelmed by practical difficulties, unclear next steps, decision avoidance, or difficulty breaking problems into manageable actions.
+
+# Confrontation with goals
+Confrontation with goals module should be selected when the patient’s main barriers involve unclear priorities, avoidance of personally important goals, low commitment, conflict between intentions and behavior, or difficulty taking action toward meaningful change.

@@ -1,0 +1,16 @@
+Use the PHQ-4 to identify the dominant burden and select the action based on burden, the patient's life context, and the maintaining mechanism described in the annotations. 
+
+
+The reward (module preference) ranges from 0 (low) to 5 (very high, highly preferred by the patient). 
+
+
+## Patient Data (0 = Not at all, no burden; 3 = Nearly every day, high burden/symptom severity) 
+
+
+* Interest/Pleasure: 
+$phq4_item1_trajectory
+* Mood Hopelessness: $phq4_item2_trajectory
+* Nervousness/Edge: $phq4_item3_trajectory 
+* Worry/Control: $phq4_item4_trajectory
+* Baseline PHQ-4 results: $baseline_phq4_results
+* Most recent PHQ-4 results: $most_recent_phq4_results

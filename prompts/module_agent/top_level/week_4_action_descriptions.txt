@@ -1,0 +1,11 @@
+#### Action descriptions are defined in the workflow model and are automatically injected into sub-level prompt. This file is therefore provided solely for clarity. 
+
+
+# Social Functioning & Support
+Social modules should be selected when the patient’s barriers are related to interpersonal, social, evaluative, or role-based functioning. This includes relationships, communication, loneliness, support-seeking, social avoidance, participation in social situations, fear of evaluation, social comparison, networking, job interviews, job search activities, asking for help, dealing with expectations from others, and approaching socially or role-demanding everyday challenges. For anxiety patients whose worries are tied to jobs, evaluation, comparison with others, expectations from others, employability, or role participation, Social modules are often especially suitable.
+
+# Cognitive-Emotional Coping
+Psychological modules should be selected when the patient’s main barriers are primarily internal cognitive or emotional processes without a clear interpersonal, evaluative, occupational, role-based, or participation context. This includes general rumination, self-perception, coping, emotion regulation, motivation, and self-directed behavior when these are not mainly linked to jobs, social comparison, expectations from others, communication, support-seeking, or participation in everyday roles.
+
+# Body, Energy & Routines
+Biological modules should be selected when the patient’s main barriers or symptoms are expressed through the body, daily rhythms, activity, sleep, energy, or physiological stress regulation.

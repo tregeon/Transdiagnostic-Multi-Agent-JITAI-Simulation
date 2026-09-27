@@ -1,0 +1,14 @@
+#### Action descriptions are defined in the workflow model and are automatically injected into sub-level prompt. This file is therefore provided solely for clarity. 
+
+
+# Behavior activation
+Behavioral activation module should be selected when the patient’s main barriers involve low motivation, reduced activity, loss of interest, withdrawal, or difficulty re-engaging with meaningful everyday routines.
+
+# Emotion regulation
+Emotion regulation module should be selected when the patient’s main barriers involve intense, confusing, or hard-to-manage emotions, emotional overwhelm, hopelessness, sadness, irritability, or difficulty coping with negative feelings.
+
+# Relaxation
+Relaxation module should be selected when the patient’s main barriers involve physical tension, restlessness, nervousness, stress arousal, difficulty calming down, or feeling constantly “on edge.”
+
+# Anxieties & challenges
+Anxieties and challenges module should be selected when the patient’s main barriers involve excessive worry, fear of negative outcomes, avoidance of feared situations, difficulty facing uncertainty, or anxiety-driven withdrawal from everyday challenges.

@@ -1,0 +1,10 @@
+Analyze the annotated patient questionnaire responses and classify the suicide risk level. 
+
+
+Pay special attention to the annotations that are direct statements from the patient. 
+
+
+If the specific criteria are not explicitly stated in the text/annotations, do not upgrade the risk level.  If the patient does not mention suicidal thoughts or intentions, there is low risk.
+
+
+$most_recent_phq4_results

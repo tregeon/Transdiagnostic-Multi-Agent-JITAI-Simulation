@@ -1,0 +1,19 @@
+#### Class descriptions are defined in the workflow model and are automatically injected into sub-level prompt. This file is therefore provided solely for clarity. 
+
+# Low Risk
+No suicidal ideation or risk factors present.
+
+# Passive wish to be dead
+Patient wishes to be dead or to go to sleep and not wake up.
+
+# Non-specific active suicidal thoughts
+The patient has thoughts about killing him or herself.
+
+# Active suicidal ideation with any method
+Patient has thoughts of killing him or herself with any method. (Thinking about how one might do it)
+
+# Active suicidal ideation with some intent to act, without specific plan
+Patient has thoughts of killing him or herself with some intention of acting on them.
+
+# Active suicidal ideation with specific plan and intent
+Patient has worked out of how to kill him or herself an intend to carry out this.
