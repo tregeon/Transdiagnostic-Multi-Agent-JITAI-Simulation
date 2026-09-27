@@ -1,5 +1,5 @@
 # Transdiagnostic-Multi-Agent-JITAI-Simulation
-Supplementary material of the simulation study
+This repository conatins supplementary material of the simulation study. 
 
 The overarching intervention design was inspired by **Zarski et al. (2025)**, with several adaptations as part of the present simulation setup regarding the agents, intervention frequency, and structuring of the modules. 
 
