@@ -10,9 +10,9 @@ depressive disorders via app: Study protocol for a feasibility study. Frontiers 
 
 The used personas to generate synthetic LLM-based patient interactions were adopted from **"TalkDep" (Wang et al., 2025)** and then further refined. 
 
-- Wang, X., Perez, A., Parapar, J., & Crestani, F. (2025a). TalkDep: Clinically Grounded LLM Personas for Conversation-Centric
+- Wang, X., Perez, A., Parapar, J., & Crestani, F. (2025). TalkDep: Clinically Grounded LLM Personas for Conversation-Centric
 Depression Screening. Proceedings of the 34th ACM International Conference on Information and Knowledge
 Management, 6554–6558. <https://doi.org/10.1145/3746252.3761617>
 
-- <https://github.com/Anxo06/TalkDep/>
+- GitHub: <https://github.com/Anxo06/TalkDep/>
 
