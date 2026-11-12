@@ -16,3 +16,4 @@ Management, 6554–6558. <https://doi.org/10.1145/3746252.3761617>
 
 - GitHub: <https://github.com/Anxo06/TalkDep/>
 
+The LLM-driven patient agents used in the longitudinal simulation study were powered by Meta Llama 3.3 70B Instruct, the same model evaluated for intervention personalization.
